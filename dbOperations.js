@@ -1,5 +1,6 @@
 import mysql from 'mysql';
 
+// mejora: cambiar nombres para simular sigla de CRUD (Create, Read, Update, Delete)
 // funciones CRUD génericas, para modificación de cualquier tabla
 
 // insertar un registro
